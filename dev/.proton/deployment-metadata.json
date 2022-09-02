@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "336a1210-b84f-4977-bc2c-474a67884e44",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-west-2:327050202254:environment/dev",
+    "templateArn" : "arn:aws:proton:us-west-2:327050202254:environment-template/acme-env",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
