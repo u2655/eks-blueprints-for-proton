@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "1ce4b54d-bdde-45a3-aa59-b7718c18c255",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-west-2:327050202254:environment/staging",
+    "templateArn" : "arn:aws:proton:us-west-2:327050202254:environment-template/acme-env",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
