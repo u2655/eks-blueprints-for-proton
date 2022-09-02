@@ -1,7 +1,7 @@
 {
   "*": {
-    "role": "arn:aws:iam::327050202254:user/study6@acme-hq.com",
+    "role": "arn:aws:iam::327050202254:role/ExampleGithubRole",
     "region": "us-west-2",
-    "state_bucket":"acme-terriform-state"
+    "state_bucket":"aws-proton-terraform-bucket-327050202254"
   }
 }
