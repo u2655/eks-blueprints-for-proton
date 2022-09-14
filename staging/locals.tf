@@ -26,7 +26,7 @@ locals {
   managed_node_groups = {
     mng = {
       node_group_name = "${local.eks_cluster_id}-mng"
-      instance_types  = ["m5.xlarge"]
+      instance_types  = ["t2.micro"]
       subnet_ids      = module.aws_vpc.private_subnets
       desired_size    = 3
       max_size        = 5
